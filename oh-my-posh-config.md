@@ -43,10 +43,9 @@ E cole isso lá dentro:
 ```bash
 oh-my-posh init pwsh
 ```
-
 <br />
 
-### Caso queira customizar, veja os temas que te agrada
+## Caso queira customizar, veja os temas que te agrada
 
 ```bash
 Get-PoshThemes
