@@ -1,4 +1,4 @@
-#Oh My Posh - Instalação e configuração no Windows
+# Oh My Posh - Instalação e configuração no Windows
 
 Primeiramente acesse o site [ohmyposh](https://ohmyposh.dev/docs/installation/windows) e siga o guia de instalação para o windows.
 
