@@ -7,4 +7,4 @@ Desenvolver Full Stack
 
 I'm a software engineer, I have more than 7 years of experience in front-end development of mobile applications.
 
-Also dominate back-end, I worked for a long time with PHP and nowadays I sometimes have close collaboration in this area, whether with Node.js, Next.js and even PHP itself, but since the rise of mobile and web applications With React, I focus on front-end development.
+Also dominate back-end, I worked for a long time with PHP and nowadays I sometimes have close collaboration in this area, whether with Node.js, Nestjs and even PHP itself, but since the rise of mobile and web applications With React, I focus on front-end development.
